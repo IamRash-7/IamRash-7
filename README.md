@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+This is Rasswanth. You can call me Rash! 
+<img src="./assets/relief.png">
+Image Credits: https://www.deviantart.com/gydw1n
+
 ## Tools and Tech
 Code -  
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
