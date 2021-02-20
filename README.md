@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Tools
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img height="32" width="32" style="background-color:#61DAFB" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
 
 ![Rash's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamRash-7&show_icons=true&hide=stars,issues&theme=algolia)
 
