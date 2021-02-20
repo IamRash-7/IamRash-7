@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="32" src="./assets/background.png" />
+<img src="./assets/background.png" />
 
 ## Tools and Tech
 Code -  
