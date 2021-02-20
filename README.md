@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 ## Tools
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+<img height="32" width="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-
-## Stats
 ![Rash's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamRash-7&show_icons=true&hide=stars,issues&theme=algolia)
 
 
