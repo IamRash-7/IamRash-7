@@ -1,6 +1,5 @@
 ### Hi there 👋
 <img src="./assets/relief.png">
-Image Credits: https://www.deviantart.com/gydw1n
 <!--
 Here are some ideas to get you started:
 
