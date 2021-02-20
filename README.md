@@ -28,6 +28,8 @@ Tools -
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
+Editor -  
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 
 
