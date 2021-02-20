@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ## Tools and Tech
-Code
+# Code
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 
-Tools
+# Tools
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
