@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 This is Rasswanth. You can call me Rash! 
-<img src="./assets/relief.png">
-Image Credits: https://www.deviantart.com/gydw1n
 
 ## Tools and Tech
 Code -  
