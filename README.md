@@ -1,5 +1,5 @@
-### Hi there 👋
 <img src="./assets/relief.png">
+Image Credits: https://www.deviantart.com/gydw1n
 <!--
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Hi there 👋
 ## Tools and Tech
 Code -  
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
