@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Rasswanth. You can call me Rash! 
+<img height="32" src="./assets/background.png" />
 
 ## Tools and Tech
 Code -  
