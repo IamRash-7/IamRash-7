@@ -2,6 +2,8 @@
 
 <img src="./assets/background.png" />
 
+I am Rasswanth. A ML Engineer/ Web Developer. Find me on [![LinkedIn][3.2]][3] or under my bed where I lie crawled
+
 ## Tools and Tech
 Code -  
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,3 +27,6 @@ Editor -
 ![Rash's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamRash-7&show_icons=true&hide=stars,issues&theme=algolia)
 
 
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3]: https://www.linkedin.com/in/rasswanth-shankar-039b631a2
