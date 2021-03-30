@@ -2,7 +2,11 @@
 
 <img src="./assets/background.png" />
 
-A ML Engineer/ Web Developer. Find me on [![LinkedIn][3.2]][3]
+A ML Enthusiast trying to find a way in this world. I love to code, make errors, cry and then debug. I have a flair for Python, C++, and C
+
+Apart from Programming, I love engrossing myself with novels, physics and football!
+
+Find me on [![LinkedIn][3.2]][3]
 
 ## Tools and Tech
 Code -  
