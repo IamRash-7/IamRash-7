@@ -2,7 +2,7 @@
 
 <img src="./assets/background.png" />
 
-A ML Engineer/ Web Developer. Find me on [![LinkedIn][3.2]][3] or under my bed where I lie crawled
+A ML Engineer/ Web Developer. Find me on [![LinkedIn][3.2]][3]
 
 ## Tools and Tech
 Code -  
