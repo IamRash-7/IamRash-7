@@ -2,7 +2,7 @@
 
 <img src="./assets/background.png" />
 
-A ML Enthusiast trying to find a way in this world. I love to code, make errors, cry and then debug. I have a flair for Python, C++, and C
+A ML Engineer trying to find a way in this world. I love to code, make errors, cry and then debug. I have a flair for Python, C++, and C
 
 Apart from Programming, I love engrossing myself with novels, physics and football!
 
@@ -16,15 +16,19 @@ Code -
 
 
 Tools -  
-<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
+<!-- <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 
 Editor -  
 <img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img height="32" styles="background-color:#61DAFB" src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
 
 
